@@ -18,7 +18,8 @@ FitConnect represents a practical approach to organizational fitness tracking, p
 ## Review
 ![Login](https://github.com/DJShankyShoe/FitConnect/assets/62169971/9164b868-22b4-4366-837d-b54953c63ed4)
 ![Home](https://github.com/DJShankyShoe/FitConnect/assets/62169971/05fd4da7-6775-4af2-99a5-d08f3322f1a8)
-i![Overview](https://github.com/DJShankyShoe/FitConnect/assets/62169971/dd823d11-2e92-4914-8497-d81df2e487f9)
 ![Register](https://github.com/DJShankyShoe/FitConnect/assets/62169971/491a58f2-d5d7-431e-8db2-5f7e69556ba8)
+![View](https://github.com/DJShankyShoe/FitConnect/assets/62169971/40c0cab5-e6dd-47b6-8707-5effc6162f18)
+![Overview](https://github.com/DJShankyShoe/FitConnect/assets/62169971/dd823d11-2e92-4914-8497-d81df2e487f9)
 ![Enroll](https://github.com/DJShankyShoe/FitConnect/assets/62169971/23bd0079-a29f-4413-afbb-6f00ec29ef25)
 
